@@ -1,0 +1,22 @@
+body {
+   
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    flex-direction: column;
+}
+
+video {
+    width: 640px;
+    height: 360px;
+}
+
+h3 {
+    margin-top: 10px;
+}
